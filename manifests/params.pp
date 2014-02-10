@@ -20,7 +20,7 @@ class ruby::params {
 
   $rbenv_plugins = {
     'ruby-build' => {
-      'ensure' => 'v20131225.1',
+      'ensure' => 'v20140204',
       'source' => 'sstephenson/ruby-build'
     },
     'rbenv-gem-rehash' => {
